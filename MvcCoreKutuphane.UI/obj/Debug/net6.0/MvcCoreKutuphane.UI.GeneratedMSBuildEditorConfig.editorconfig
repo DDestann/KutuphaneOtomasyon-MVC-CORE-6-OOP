@@ -1,0 +1,145 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MvcCoreKutuphane.UI
+build_property.RootNamespace = MvcCoreKutuphane.UI
+build_property.ProjectDir = C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.UI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.UI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Kitap/HasDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBcSGFzRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Kitap/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Kitap/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBcSW5zZXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Kitap/IsDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBcSXNEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Kitap/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/KullaniciRol/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpUm9sXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/KullaniciRol/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpUm9sXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/KullaniciRol/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpUm9sXEluc2VydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/KullaniciRol/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpUm9sXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Rol/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Rol/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Rol/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXEluc2VydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Rol/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Tur/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Tur/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Tur/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVyXEluc2VydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Tur/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVyXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Yayinev/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF5aW5ldlxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Yayinev/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF5aW5ldlxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Yayinev/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF5aW5ldlxJbnNlcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Yayinev/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF5aW5ldlxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Yazar/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6YXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Yazar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6YXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Yazar/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6YXJcSW5zZXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Yazar/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6YXJcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lokma/OneDrive/Masaüstü/MvcCoreKutuphane.UI/MvcCoreKutuphane.UI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-g4fk3qrf8n

@@ -1,0 +1,22 @@
+﻿@model MvcCoreKutuphane.Entities.Entity.Tur
+
+@{
+    ViewData["Title"] = "Insert";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Insert</h1>
+
+@using (Html.BeginForm("Insert", "Tur", FormMethod.Post))
+{
+    <div class="form-group">
+
+        @Html.Label("Tur Adı")
+        @Html.TextBoxFor(x=>x.Ad , new{@class="form-control"})
+
+       
+
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Tur Ekle</button>  <a href="/Tur/Index" class="btn btn-warning">Geri Dön</a>
+}

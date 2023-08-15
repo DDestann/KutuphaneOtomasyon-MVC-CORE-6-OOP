@@ -1,0 +1,12 @@
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Entities\bin\Debug\net6.0\MvcCoreKutuphane.Entities.deps.json
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Entities\bin\Debug\net6.0\MvcCoreKutuphane.Entities.dll
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Entities\bin\Debug\net6.0\MvcCoreKutuphane.Entities.pdb
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Entities\obj\Debug\net6.0\MvcCoreKutuphane.Entities.csproj.AssemblyReference.cache
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Entities\obj\Debug\net6.0\MvcCoreKutuphane.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Entities\obj\Debug\net6.0\MvcCoreKutuphane.Entities.AssemblyInfoInputs.cache
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Entities\obj\Debug\net6.0\MvcCoreKutuphane.Entities.AssemblyInfo.cs
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Entities\obj\Debug\net6.0\MvcCoreKutuphane.Entities.csproj.CoreCompileInputs.cache
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Entities\obj\Debug\net6.0\MvcCoreKutuphane.Entities.dll
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Entities\obj\Debug\net6.0\refint\MvcCoreKutuphane.Entities.dll
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Entities\obj\Debug\net6.0\MvcCoreKutuphane.Entities.pdb
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Entities\obj\Debug\net6.0\ref\MvcCoreKutuphane.Entities.dll

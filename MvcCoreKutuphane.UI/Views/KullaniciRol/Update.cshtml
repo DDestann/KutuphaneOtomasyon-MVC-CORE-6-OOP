@@ -1,0 +1,21 @@
+﻿@model MvcCoreKutuphane.Entities.Entity.KullaniciRol
+
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Insert</h1>
+
+@using (Html.BeginForm("Update", "KullaniciRol", FormMethod.Post))
+{
+    <div class="form-group">
+
+        @Html.Label("Tur Adı")
+        @Html.TextBoxFor(x=>x.Rol , new{@class="form-control"})
+
+
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Tur Düzenle</button>  <a href="/Tur/Index" class="btn btn-warning">Geri Dön</a>
+}

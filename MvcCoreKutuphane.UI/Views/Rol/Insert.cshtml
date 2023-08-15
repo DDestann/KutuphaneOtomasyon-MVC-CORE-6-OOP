@@ -1,0 +1,22 @@
+﻿@model MvcCoreKutuphane.Entities.Entity.Rol
+
+@{
+    ViewData["Title"] = "Insert";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Insert</h1>
+
+@using (Html.BeginForm("Insert", "Rol", FormMethod.Post))
+{
+    <div class="form-group">
+
+        @Html.Label("Rol")
+        @Html.TextBoxFor(x=>x.Roller , new{@class="form-control"})
+
+       
+
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Rol Ekle</button>  <a href="/Rol/Index" class="btn btn-warning">Geri Dön</a>
+}

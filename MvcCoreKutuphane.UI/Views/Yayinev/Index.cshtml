@@ -1,0 +1,37 @@
+﻿@using MvcCoreKutuphane.Entities.Entity
+@model IEnumerable<YayinEv>
+
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th> Adı</th>
+            <th>Tarih</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th>@item.Id</th>
+                <td>@item.Ad</td>
+                <td>@item.Tarih</td>
+                <td>
+                    <a href="/YayinEv/Update/@item.Id" class=" btn btn-success">Düzenle</a>
+                    <a href="/YayinEv/Delete/@item.Id" class="btn btn-danger">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<br />
+<a href="/YayinEv/Insert" class="btn btn-primary">Yeni YayinEv Ekle</a>

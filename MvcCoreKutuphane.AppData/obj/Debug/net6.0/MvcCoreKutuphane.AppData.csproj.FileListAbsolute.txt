@@ -1,0 +1,17 @@
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.AppData\bin\Debug\net6.0\MvcCoreKutuphane.AppData.deps.json
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.AppData\bin\Debug\net6.0\MvcCoreKutuphane.AppData.runtimeconfig.json
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.AppData\bin\Debug\net6.0\MvcCoreKutuphane.AppData.dll
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.AppData\bin\Debug\net6.0\MvcCoreKutuphane.AppData.pdb
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.AppData\bin\Debug\net6.0\MvcCoreKutuphane.Entities.dll
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.AppData\bin\Debug\net6.0\MvcCoreKutuphane.Entities.pdb
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.AppData\obj\Debug\net6.0\MvcCoreKutuphane.AppData.csproj.AssemblyReference.cache
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.AppData\obj\Debug\net6.0\MvcCoreKutuphane.AppData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.AppData\obj\Debug\net6.0\MvcCoreKutuphane.AppData.AssemblyInfoInputs.cache
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.AppData\obj\Debug\net6.0\MvcCoreKutuphane.AppData.AssemblyInfo.cs
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.AppData\obj\Debug\net6.0\MvcCoreKutuphane.AppData.csproj.CoreCompileInputs.cache
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.AppData\obj\Debug\net6.0\MvcCoreKutuphane.AppData.csproj.CopyComplete
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.AppData\obj\Debug\net6.0\MvcCoreKutuphane.AppData.dll
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.AppData\obj\Debug\net6.0\refint\MvcCoreKutuphane.AppData.dll
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.AppData\obj\Debug\net6.0\MvcCoreKutuphane.AppData.pdb
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.AppData\obj\Debug\net6.0\MvcCoreKutuphane.AppData.genruntimeconfig.cache
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.AppData\obj\Debug\net6.0\ref\MvcCoreKutuphane.AppData.dll

@@ -1,0 +1,23 @@
+﻿@model MvcCoreKutuphane.Entities.Entity.YayinEv
+
+@{
+    ViewData["Title"] = "Insert";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Insert</h1>
+
+@using (Html.BeginForm("Insert", "YayinEv", FormMethod.Post))
+{
+    <div class="form-group">
+
+        @Html.Label(" Adı")
+        @Html.TextBoxFor(x=>x.Ad , new{@class="form-control"})
+
+
+
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">YayinEv Ekle</button>  <a href="/YayinEv/Index" class="btn btn-warning">Geri Dön</a>
+}
+

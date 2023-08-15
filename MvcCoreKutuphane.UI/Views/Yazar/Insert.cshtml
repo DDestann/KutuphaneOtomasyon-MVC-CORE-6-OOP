@@ -1,0 +1,23 @@
+﻿@model MvcCoreKutuphane.Entities.Entity.Yazar
+
+@{
+    ViewData["Title"] = "Insert";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Insert</h1>
+
+@using (Html.BeginForm("Insert", "Yazar", FormMethod.Post))
+{
+    <div class="form-group">
+
+        @Html.Label("Yazar Adı")
+        @Html.TextBoxFor(x=>x.Ad , new{@class="form-control"})
+
+        @Html.Label("Yazar Soyadı")
+        @Html.TextBoxFor(x=>x.Soyad , new{@class="form-control"})
+
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Yazar Ekle</button>  <a href="/Yazar/Index" class="btn btn-warning">Geri Dön</a>
+}

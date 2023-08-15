@@ -1,0 +1,45 @@
+﻿@using MvcCoreKutuphane.Entities.Entity
+@model IEnumerable<Kitap>
+
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Adı</th>
+            <th>Yazar</th>
+            <th>Tur</th>
+            <th>Yayın Evi</th>
+
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th>@item.Id</th>
+                <td>@item.Ad</td>
+                <td>@item.Yazar.FullAd</td>
+                <td>@item.Tur.Ad</td>
+                <td>@item.YayinEv.Ad</td>
+
+                <td>
+                    <a href="/Kitap/Update/@item.Id" class=" btn btn-success">Düzenle</a>
+                    <a href="/Kitap/Delete/@item.Id" class="btn btn-danger">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<br />
+<a href="/Kitap/Insert" class="btn btn-primary">Yeni Kitap Ekle</a>
+<a href="/Kitap/IsDelete" class="btn btn-danger">IsDelete</a>

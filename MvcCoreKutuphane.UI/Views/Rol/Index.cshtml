@@ -1,0 +1,37 @@
+﻿@using MvcCoreKutuphane.Entities.Entity
+@model IEnumerable<Rol>
+
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Rol</th>
+            
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th>@item.Id</th>
+                <td>@item.Roller</td>
+                
+                <td>
+                    <a href="/Rol/Update/@item.Id" class=" btn btn-success">Düzenle</a>
+                    <a href="/Rol/Delete/@item.Id" class="btn btn-danger">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<br />
+<a href="/Rol/Insert" class="btn btn-primary">Yeni Rol Ekle</a>

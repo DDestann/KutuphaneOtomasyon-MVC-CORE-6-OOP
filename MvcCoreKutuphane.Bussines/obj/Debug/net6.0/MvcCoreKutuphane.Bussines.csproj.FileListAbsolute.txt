@@ -1,0 +1,17 @@
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Bussines\bin\Debug\net6.0\MvcCoreKutuphane.Bussines.deps.json
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Bussines\bin\Debug\net6.0\MvcCoreKutuphane.Bussines.dll
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Bussines\bin\Debug\net6.0\MvcCoreKutuphane.Bussines.pdb
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Bussines\bin\Debug\net6.0\MvcCoreKutuphane.AppData.dll
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Bussines\bin\Debug\net6.0\MvcCoreKutuphane.Entities.dll
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Bussines\bin\Debug\net6.0\MvcCoreKutuphane.AppData.pdb
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Bussines\bin\Debug\net6.0\MvcCoreKutuphane.Entities.pdb
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Bussines\obj\Debug\net6.0\MvcCoreKutuphane.Bussines.csproj.AssemblyReference.cache
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Bussines\obj\Debug\net6.0\MvcCoreKutuphane.Bussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Bussines\obj\Debug\net6.0\MvcCoreKutuphane.Bussines.AssemblyInfoInputs.cache
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Bussines\obj\Debug\net6.0\MvcCoreKutuphane.Bussines.AssemblyInfo.cs
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Bussines\obj\Debug\net6.0\MvcCoreKutuphane.Bussines.csproj.CoreCompileInputs.cache
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Bussines\obj\Debug\net6.0\MvcCoreKutuphane.Bussines.csproj.CopyComplete
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Bussines\obj\Debug\net6.0\MvcCoreKutuphane.Bussines.dll
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Bussines\obj\Debug\net6.0\refint\MvcCoreKutuphane.Bussines.dll
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Bussines\obj\Debug\net6.0\MvcCoreKutuphane.Bussines.pdb
+C:\Users\lokma\OneDrive\Masaüstü\MvcCoreKutuphane.UI\MvcCoreKutuphane.Bussines\obj\Debug\net6.0\ref\MvcCoreKutuphane.Bussines.dll

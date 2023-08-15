@@ -1,0 +1,48 @@
+﻿@model MvcCoreKutuphane.Entities.Entity.Kitap
+
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Insert</h1>
+
+@using (Html.BeginForm("Update", "Kitap", FormMethod.Post))
+{
+    <div class="form-group">
+
+
+
+        @Html.Label("Tur")
+        @Html.DropDownListFor(x=>x.TurId,(SelectList)ViewBag.droptur ,"-Seçim Yapınız-", new{@class="form-control"})
+        @*@Html.ValidationMessageFor(x=>x.TurId)*@
+
+        @Html.Label("Yazar")
+        @Html.DropDownListFor(x=>x.YazarId,(SelectList)ViewBag.dropyazar ,"-Seçim Yapınız-", new{@class="form-control"})
+        @*@Html.ValidationMessageFor(x=>x.YazarId)*@
+
+        @Html.Label("Yayın Evi")
+        @Html.DropDownListFor(x=>x.YayinEvId,(SelectList)ViewBag.dropyayinev ,"-Seçim Yapınız-", new{@class="form-control"})
+        @*@Html.ValidationMessageFor(x=>x.YayinEvId)*@
+
+
+        @Html.Label("Adı")
+        @Html.TextBoxFor(x=>x.Ad , new{@class="form-control"})
+
+        @Html.Label("Stok")
+        @Html.TextBoxFor(x=>x.Stok , new{@class="form-control"})
+
+        @Html.Label("Sayfa Sayısı")
+        @Html.TextBoxFor(x=>x.SayfaSayisi , new{@class="form-control"})
+
+        @Html.Label("Açıklama")
+        @Html.TextBoxFor(x=>x.Aciklama , new{@class="form-control"})
+
+        @Html.HiddenFor(x=>x.EklemeTarihi)
+
+
+
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Kitap Düzenle</button>  <a href="/Kitap/Index" class="btn btn-warning">Geri Dön</a>
+}
